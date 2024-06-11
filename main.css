@@ -47,6 +47,12 @@ body {
 	color: #fff;
 	z-index: 5;
 }
+
+.header-text h1 {
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
 .header-bg {
 	position: absolute;
 	height: 100%;
