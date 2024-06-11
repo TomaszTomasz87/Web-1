@@ -53,9 +53,34 @@ body {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
+
 .header-bg {
 	position: absolute;
 	height: 100%;
 	width: 100%;
 	background-color: rgba(0,3,27,.4);
+}
+/* footer */
+footer {
+	height: 80px;
+	line-height: 80px;
+	background-color: #333;
+	color: #dddd;
+	text-align: center;
+	font-size: 20px;
+}
+
+.icon-box {
+	margin-left: 20px;
+
+}
+
+.icon-box a {
+	color: #fff;
+	margin: 0 5px;
+	font-size: 30px;
+	transition: color .3s;
+}
+.icon-box a:hover {
+	color:rgb(50, 116, 201);
 }
