@@ -65,6 +65,7 @@ body {
 main {
 	width: 1200px;
 	margin: 50px auto;
+
 }
 main h2 {
 	margin-bottom: 30px;
@@ -113,6 +114,29 @@ main h2 {
 	background-color: rgb(0, 0, 0, 0.8);
 }
 
+/* usługi */
+.services-list {
+	margin: 0 auto;
+	width: 200px;
+}
+.prices-table {
+	margin: 0 auto;
+
+}
+.prices-table td {
+	padding: 10px 20px;
+	
+}
+.contact-info {
+	text-align: center;
+	font-size: 36px;
+}
+.contact-info .fa-solid {
+	margin-right: 10px;
+}
+
+
+
 /* footer */
 footer {
 	height: 80px;
@@ -136,3 +160,4 @@ footer {
 .icon-box a:hover {
 	color: rgb(50, 116, 201);
 }
+
